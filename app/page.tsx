@@ -44,7 +44,7 @@ function Home() {
           <div className="flex flex-col gap-8 items-start">
             <h1 className="text-2xl font-medium">Conheça mais sobre o blog</h1>
             <Tooltip>
-              <TooltipTrigger>
+              <TooltipTrigger asChild>
                 <Link href="/landing-page">
                   <ShinyButton>
                     <AuroraText>Landing Page</AuroraText>

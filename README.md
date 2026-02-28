@@ -85,12 +85,12 @@ O projeto **não utiliza back-end nem banco de dados**, sendo todo o conteúdo e
 - Navegação simples e intuitiva
 
 ## Como Acessar o Site
-Ele esta disponível no link: 
+Ele esta disponível no link: https://mini-blog-vitorelli.vercel.app/
 
 ## Como executar o projeto localmente
 1. Clone o repositório:
 ```Cmd
-exemplo
+git clone https://github.com/Daniel-Vitorelli/mini-blog.git
 ```
 
 2. Acesse a pasta do projeto:
